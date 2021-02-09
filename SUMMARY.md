@@ -22,5 +22,7 @@
 
 ## Dev Version
 
-* [High](dev-version/untitled.md)
+* [Imediate](dev-version/imediate.md)
+* [Very High](dev-version/untitled.md)
+* [High](dev-version/high.md)
 
