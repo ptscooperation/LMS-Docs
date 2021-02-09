@@ -6,7 +6,7 @@
 
 2. Fill the Class Details [\(more...\)](add-class.md#class-fill-options)
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 3. Submit
 
