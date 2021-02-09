@@ -13,7 +13,7 @@
 * [Sign Up](lms-documentation/sign-up.md)
 * [Dashboard](lms-documentation/dashboard.md)
 * [Add Class](lms-documentation/add-class.md)
-* [Untitled](lms-documentation/untitled-1.md)
+* [Add Student to class](lms-documentation/untitled-1.md)
 
 ## LMS Documentation for Students
 
