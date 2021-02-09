@@ -4,6 +4,8 @@ LMS is Affordable, Customizable platform for manage all your classes in one plac
 
 ## Quick Links
 
+{% page-ref page="lms-documentation/untitled.md" %}
+
 
 
 ## Features
