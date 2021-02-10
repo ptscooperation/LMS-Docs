@@ -28,7 +28,7 @@ In here you can mark if the student is paid.
 **Note that You can't uncheck once you check that the student paid till a month passed.**
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 Once you paid date and time will be changed to the time you marked paid.
 
