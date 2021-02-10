@@ -14,6 +14,7 @@
 * [Dashboard](lms-documentation/dashboard.md)
 * [Add Class](lms-documentation/add-class.md)
 * [Add Student to class](lms-documentation/untitled-1.md)
+* [Class Feed](lms-documentation/class-feed.md)
 
 ## LMS Documentation for Students
 
