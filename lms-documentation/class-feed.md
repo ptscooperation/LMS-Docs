@@ -68,7 +68,7 @@ If you are including videos on the post click here to make sure they are on the 
 
 #### 6 - Status
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 Line Count, Word Count and Cursor \(Counting from 0\)
 

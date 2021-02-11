@@ -20,23 +20,23 @@ Day | Time
 ```
 {% endcode %}
 
-![Class Card](../.gitbook/assets/image%20%2825%29.png)
+![Class Card](../.gitbook/assets/image%20%2830%29.png)
 
 
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 ### Student List
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 
 
 ### Add Student to Class
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 Follow this page to see how to add a student to class.
 
@@ -44,7 +44,7 @@ Follow this page to see how to add a student to class.
 
 ### Class Feed
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 
 

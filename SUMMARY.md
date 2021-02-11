@@ -22,14 +22,15 @@
 * [Get Started](lms-documentation-for-students/get-started.md)
 * [Sign Up](lms-documentation-for-students/sign-up.md)
 
+## Other Help
+
+* [Uploading Images](other-help/uploading-images/README.md)
+  * [Ice Drive](other-help/uploading-images/ice-drive.md)
+
 ## Dev Version
 
 * [Imediate](dev-version/imediate.md)
 * [Very High](dev-version/untitled.md)
 * [High](dev-version/high.md)
-
-## Other Help
-
-* [Uploading Images](other-help/uploading-images/README.md)
-  * [Ice Drive](other-help/uploading-images/ice-drive.md)
+* [Doc Edit](dev-version/doc-edit.md)
 
