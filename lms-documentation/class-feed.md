@@ -56,11 +56,21 @@ Show the preview of post currently working on.
 
 #### 3 - Editor
 
+This is the place where you make your post
+
 #### 4 - Post Button
+
+Click when you are done finishing the Post
 
 #### 5 - Video button \(if videos exist\)
 
+If you are including videos on the post click here to make sure they are on the post. Otherwise they will be shown as link only.
+
+![](../.gitbook/assets/video.gif)
+
 #### 6 - Status
+
+
 
 #### 7 - Class Feed
 
