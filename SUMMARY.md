@@ -28,3 +28,8 @@
 * [Very High](dev-version/untitled.md)
 * [High](dev-version/high.md)
 
+## Other Help
+
+* [Uploading Images](other-help/uploading-images/README.md)
+  * [Ice Drive](other-help/uploading-images/ice-drive.md)
+
