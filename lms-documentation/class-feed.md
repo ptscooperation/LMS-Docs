@@ -52,8 +52,6 @@ Show the preview of post currently working on.
 
 12 - Markdown Guide
 
-
-
 #### 3 - Editor
 
 This is the place where you make your post
@@ -70,9 +68,19 @@ If you are including videos on the post click here to make sure they are on the 
 
 #### 6 - Status
 
+![](../.gitbook/assets/image%20%2817%29.png)
 
+Line Count, Word Count and Cursor \(Counting from 0\)
 
 #### 7 - Class Feed
+
+The Posts you published are shown here. 
+
+## FAQ
+
+### Video is not showing?
+
+Make sure that you [clicked video button. ](class-feed.md#5-video-button-if-videos-exist)
 
 
 

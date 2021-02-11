@@ -4,23 +4,23 @@
 
 1. Request UID \(User ID\) of student need to added.
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 Click on Profile.
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 Request this code from student
 
 2. Enter the Code here and you will see ✅ **200** if succeded.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 ## Search Students
 
 Enter Student Code \(UID\) to search students.
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 In here you can mark if the student is paid.
 
@@ -28,7 +28,7 @@ In here you can mark if the student is paid.
 **Note that You can't uncheck once you check that the student paid till a month passed.**
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 Once you paid date and time will be changed to the time you marked paid.
 
