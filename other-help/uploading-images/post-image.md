@@ -6,9 +6,9 @@ description: 'https://postimages.org/'
 
 ## Navigation
 
-#### Create Account
+#### [Create Account](post-image.md#create-account)
 
-#### Get URL
+#### [Get URL](post-image.md#getting-url)
 
 {% embed url="https://postimages.org/" %}
 
