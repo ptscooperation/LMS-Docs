@@ -6,9 +6,9 @@ Your Dahsboard will contain follow structure.
 Cliking on LMS always lead you to Dashboard.
 {% endhint %}
 
-![](../.gitbook/assets/image%20%283%29.png)
-
 Your Classes will be shown like this.
+
+![](../.gitbook/assets/image%20%283%29.png)
 
 ## Class Card
 
@@ -23,10 +23,6 @@ Day | Time
 ![Class Card](../.gitbook/assets/image%20%2830%29.png)
 
 
-
-![](../.gitbook/assets/image%20%2819%29.png)
-
-![](../.gitbook/assets/image%20%2822%29.png)
 
 ### Student List
 
@@ -45,6 +41,10 @@ Follow this page to see how to add a student to class.
 ### Class Feed
 
 ![](../.gitbook/assets/image%20%2832%29.png)
+
+Follow this page to see how to use Class Feed for teachers.
+
+{% page-ref page="class-feed.md" %}
 
 
 
