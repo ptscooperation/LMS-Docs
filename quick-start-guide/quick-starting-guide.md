@@ -24,5 +24,5 @@ First Sign Up and Create your account.
 **Make sure you remember your Password. \(Beta**✨ **\)**
 {% endhint %}
 
-
+Then log in and 
 
