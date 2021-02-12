@@ -128,11 +128,15 @@ Remember to use a space after \# code.
 3. Numbered list item
 ```
 
+![](../.gitbook/assets/image%20%2856%29.png)
+
 ## Links
 
 ```csharp
 [Text to display](http://www.example.com)
 ```
+
+![](../.gitbook/assets/image%20%2854%29.png)
 
 ## Quotes
 
@@ -141,9 +145,11 @@ Remember to use a space after \# code.
 > It can span multiple lines! 
 ```
 
+![](../.gitbook/assets/image%20%2857%29.png)
+
 ## Images
 
-You can upload image to \([check full tutorial on here.](../other-help/uploading-images/)\) [icedrive](../other-help/uploading-images/ice-drive.md)
+You can upload image to \([check full tutorial on here.](../other-help/uploading-images/)\) [PostImage](../other-help/uploading-images/post-image.md), [icedrive](../other-help/uploading-images/ice-drive.md)
 
 ```text
 ![Image Text Here](http://www.example.com/image.jpg)
@@ -165,6 +171,8 @@ Or without aligning the columns...
 | Mary | Smith | Female |
 ```
 
+![](../.gitbook/assets/image%20%2855%29.png)
+
 ## Displaying Code
 
 ```csharp
@@ -177,6 +185,8 @@ var example = "hello!";
 alert(example);
 ```
 ```
+
+![](../.gitbook/assets/image%20%2858%29.png)
 
 
 
