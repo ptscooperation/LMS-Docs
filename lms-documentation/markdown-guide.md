@@ -95,7 +95,7 @@ alert(example);
 ~~strikethrough~~
 ```
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 ## Headers
 
@@ -110,7 +110,7 @@ Headers can be used to get different font sizes.
 ###### Header 6
 ```
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 {% hint style="warning" %}
 Remember to use a space after \# code.
