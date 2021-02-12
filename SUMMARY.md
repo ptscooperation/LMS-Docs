@@ -25,6 +25,7 @@
 ## Other Help
 
 * [Uploading Images](other-help/uploading-images/README.md)
+  * [Imgur](other-help/uploading-images/imgur.md)
   * [Ice Drive](other-help/uploading-images/ice-drive.md)
 
 ## Dev Version

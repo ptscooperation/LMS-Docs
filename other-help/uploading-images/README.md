@@ -15,5 +15,21 @@ Free Package contain up to 10GB free space and you can upgrade up to 100 TB on m
 
 {% page-ref page="ice-drive.md" %}
 
+2. Imgur
+
+{% embed url="https://imgur.com/" %}
+
+3. imgbb 
+
+up to 32 mb
+
+{% embed url="https://imgbb.com/" %}
+
+4. Pasteboard
+
+{% embed url="https://pasteboard.co/" %}
+
+[https://pasteboard.co/JNSYvFO.png](https://pasteboard.co/JNSYvFO.png)   .
+
 
 
